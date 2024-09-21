@@ -1,7 +1,7 @@
 {
   "name": "akashic-records",
-  "private": true,
-  "version": "0.0.0",
+  "homepage": "https://yatharthzinzuwadia.github.io/Akashic-Records"
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
