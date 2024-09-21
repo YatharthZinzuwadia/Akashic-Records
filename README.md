@@ -1,8 +1,8 @@
-# React + Vite
+Greetings!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Repo Contains the code for the react application hosted at :
+https://akashic-records.netlify.app/
 
-Currently, two official plugins are available:
+This Project was made by Yatharth Zinzuwadia (me) for practicing with anime database API and React + Routing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Thakns for viewing. Leave a Star!
